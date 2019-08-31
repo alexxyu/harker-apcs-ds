@@ -1,0 +1,56 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MyLinkedList()
+comment0.text=\n\ Constructs\ a\ MyLinkedList.\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\n\ Returns\ a\ formatted\ string\ of\ values\ stored\ in\ this\ MyLinkedList.\n\ \n\ @return\ a\ formatted\ string\ of\ values\ in\ MyLinkedList\n
+comment10.params=index\ obj
+comment10.target=void\ add(int,\ java.lang.Object)
+comment10.text=\n\ Adds\ the\ given\ value\ to\ the\ list\ at\ the\ given\ index.\n\ \n\ @param\ index\ the\ index\ to\ add\ the\ value\ at\n\ @param\ obj\ \ \ the\ value\ to\ add\ to\ the\ list\n\ \n\ @precondition\:\ \ 0\ <\=\ index\ <\=\ size\n\ @postcondition\:\ inserts\ obj\ at\ position\ index,\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ moving\ elements\ at\ position\ index\ and\ higher\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ to\ the\ right\ (adds\ 1\ to\ their\ indices)\ and\ adjusts\ size\n\ \ \ \ \ \ \ \ \ \ \ \ \ \n
+comment11.params=obj
+comment11.target=void\ addFirst(java.lang.Object)
+comment11.text=\n\ Adds\ the\ given\ value\ to\ the\ beginning\ of\ the\ list.\n\ \n\ @param\ obj\ \ \ the\ value\ to\ add\n
+comment12.params=obj
+comment12.target=void\ addLast(java.lang.Object)
+comment12.text=\n\ Adds\ the\ given\ value\ to\ the\ end\ of\ the\ list.\n\ \n\ @param\ obj\ \ \ the\ value\ to\ add\n
+comment13.params=
+comment13.target=java.lang.Object\ getFirst()
+comment13.text=\n\ Returns\ the\ value\ stored\ at\ the\ first\ index\ in\ the\ list.\n\ \n\ @return\ the\ corresponding\ value\n
+comment14.params=
+comment14.target=java.lang.Object\ getLast()
+comment14.text=\n\ Returns\ the\ value\ stored\ at\ the\ last\ index\ in\ the\ list.\n\ \n\ @return\ the\ corresponding\ value\n
+comment15.params=
+comment15.target=java.lang.Object\ removeFirst()
+comment15.text=\n\ Removes\ and\ returns\ the\ value\ stored\ in\ the\ first\ index\ in\ the\ list.\n\ \n\ @return\ the\ value\ stored\ in\ the\ first\ index\n
+comment16.params=
+comment16.target=java.lang.Object\ removeLast()
+comment16.text=\n\ Removes\ and\ returns\ the\ value\ stored\ in\ the\ last\ index\ of\ the\ list.\n\ \n\ @return\ the\ value\ stored\ in\ the\ last\ index\n
+comment17.params=
+comment17.target=java.util.Iterator\ iterator()
+comment17.text=\n\ Retrieves\ an\ iterator\ for\ this\ MyLinkedList.\n\ \n\ @return\ an\ iterator\ for\ this\ list\n
+comment2.params=index
+comment2.target=DoubleNode\ getNodeFromFirst(int)
+comment2.text=\n\ Returns\ the\ DoubleNode\ at\ the\ given\ index\ starting\ from\n\ the\ front\ end\ of\ the\ list\ (i.e.\ from\ the\ first\ node).\n\ \n\ @param\ index\ the\ index\ of\ the\ DoubleNode\ to\ return\n\ \n\ @precondition\:\ \ 0\ <\=\ index\ <\=\ size\ /\ 2\n\ @postcondition\:\ starting\ from\ first,\ returns\ the\ node\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ with\ given\ index\ (where\ index\ 0\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ returns\ first)\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \n\ @return\ the\ corresponding\ DoubleNode\n
+comment3.params=index
+comment3.target=DoubleNode\ getNodeFromLast(int)
+comment3.text=\n\ Returns\ the\ DoubleNode\ at\ the\ given\ index\ starting\ from\n\ the\ back\ end\ of\ the\ list\ (i.e.\ from\ the\ last\ node).\n\ \n\ @param\ index\ the\ index\ of\ the\ DoubleNode\ to\ return\n\ \n\ @precondition\:\ \ size\ /\ 2\ <\=\ index\ <\ size\n\ @postcondition\:\ starting\ from\ last,\ returns\ the\ node\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ with\ given\ index\ (where\ index\ size-1\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ returns\ last)\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \n\ @return\ the\ corresponding\ DoubleNode\n
+comment4.params=index
+comment4.target=DoubleNode\ getNode(int)
+comment4.text=\n\ Returns\ a\ DoubleNode\ at\ the\ given\ index\ using\ helper\ methods.\n\ \n\ @param\ index\ the\ index\ of\ the\ DoubleNode\ to\ return\n\ \n\ @precondition\:\ \ 0\ <\=\ index\ <\ size\n\ @postcondition\:\ starting\ from\ first\ or\ last\ (whichever\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ is\ closer),\ returns\ the\ node\ with\ given\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ index\n\ \ \ \ \ \ \ \ \ \n\ @return\ the\ corresponding\ DoubleNode\n
+comment5.params=
+comment5.target=int\ size()
+comment5.text=\n\ Retrieves\ the\ current\ size\ of\ this\ MyLinkedList.\n\ \n\ @return\ the\ size\n
+comment6.params=index
+comment6.target=java.lang.Object\ get(int)
+comment6.text=\n\ Returns\ the\ value\ stored\ in\ the\ given\ index\ of\ the\ list.\n\ \n\ @return\ the\ corresponding\ value\ to\ the\ index\n
+comment7.params=index\ obj
+comment7.target=java.lang.Object\ set(int,\ java.lang.Object)
+comment7.text=\n\ Sets\ the\ value\ to\ a\ new\ one\ at\ the\ given\ index\ and\ returns\n\ the\ former\ value.\n\ \n\ @param\ index\ the\ index\ of\ the\ value\ to\ change\n\ @param\ obj\ \ \ the\ new\ value\n\ \n\ @postcondition\:\ replaces\ the\ element\ at\ position\ index\ with\ obj\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ returns\ the\ element\ formerly\ at\ the\ specified\ position\n\ \n\ @return\ the\ former\ value\ stored\ at\ the\ given\ index\n
+comment8.params=obj
+comment8.target=boolean\ add(java.lang.Object)
+comment8.text=\n\ Adds\ the\ value\ to\ the\ end\ of\ the\ list\ and\ increases\ size\ of\ list\ by\ one.\n\ \n\ @postcondition\:\ appends\ obj\ to\ end\ of\ list;\ returns\ true\n\ @return\ true\n
+comment9.params=index
+comment9.target=java.lang.Object\ remove(int)
+comment9.text=\n\ Removes\ and\ returns\ the\ value\ stored\ at\ the\ given\ index\ and\ adjusts\n\ the\ list\ accordingly.\n\ \n\ @param\ index\ the\ index\ of\ the\ value\ to\ remove\n\ \n\ @postcondition\:\ removes\ element\ from\ position\ index,\ moving\ elements\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ at\ position\ index\ +\ 1\ and\ higher\ to\ the\ left\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (subtracts\ 1\ from\ their\ indices)\ and\ adjusts\ size\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ returns\ the\ element\ formerly\ at\ the\ specified\ position\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \n\ @return\ the\ value\ formerly\ stored\ at\ the\ given\ index\n
+numComments=18

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=name
+comment0.target=Polygon(java.lang.String)
+comment0.text=\n\ Constructs\ a\ Polygon\ with\ a\ name.\n\ \n\ @param\ name\ \ the\ name\ given\ to\ a\ particular\ Polygon\n
+comment1.params=
+comment1.target=boolean\ isPolygon()
+comment1.text=\n\ Checks\ to\ see\ if\ the\ shape\ is\ a\ polygon.\n\ \n\ @return\ true\n
+comment2.params=
+comment2.target=boolean\ isRegular()
+comment2.text=\n\ Checks\ to\ see\ if\ the\ Polygon\ is\ regular.\n\ \n\ @return\ true\ if\ the\ Polygon\ is\ regular;\ otherwise,\n\ \ \ \ \ \ \ \ \ false\n
+comment3.params=
+comment3.target=int\ numSides()
+comment3.text=\n\ Retreives\ the\ number\ of\ sides\ of\ the\ Polygon.\n\ \n\ @return\ the\ number\ of\ sidesof\ the\ Polygon\n
+numComments=4

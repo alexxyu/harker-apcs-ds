@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Palindromes()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Palindromes\n
+comment1.params=num
+comment1.target=boolean\ isPalindrome(int)
+comment2.params=num
+comment2.target=int\ reverseNumber(int)
+comment3.params=begin\ end
+comment3.target=int\ countPalindromeInRange(int,\ int)
+comment4.params=start\ end
+comment4.target=int[]\ getArrayOfPalindromeInRange(int,\ int)
+comment5.params=start\ end
+comment5.target=java.util.ArrayList\ getListOfPalindromeInRange(int,\ int)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

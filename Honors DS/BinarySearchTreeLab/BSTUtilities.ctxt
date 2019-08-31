@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=t\ x\ display
+comment0.target=boolean\ contains(TreeNode,\ java.lang.Comparable,\ TreeDisplay)
+comment0.text=\n\ Checks\ to\ see\ if\ a\ value\ is\ present\ within\ the\ given\ tree.\n\ \n\ @param\ t\ the\ tree\ to\ check\ for\ the\ presence\ of\ the\ given\ value\n\ @param\ x\ the\ value\ to\ check\ for\ in\ the\ tree\n\ @param\ display\ the\ display\ for\ the\ tree\n\ \n\ @return\ true\ if\ the\ value\ is\ in\ the\ tree;\ otherwise,\n\ \ \ \ \ \ \ \ \ false\n
+comment1.params=t\ x\ display
+comment1.target=TreeNode\ insert(TreeNode,\ java.lang.Comparable,\ TreeDisplay)
+comment1.text=\n\ Inserts\ a\ value\ into\ the\ given\ tree.\n\ \n\ @param\ t\ the\ tree\ to\ insert\ a\ value\ into\n\ @param\ x\ the\ value\ to\ insert\ into\ the\ tree\n\ @param\ display\ the\ display\ for\ the\ tree\n\ \n\ @return\ the\ newly\ modified\ tree\n
+comment2.params=t\ display
+comment2.target=TreeNode\ deleteNode(TreeNode,\ TreeDisplay)
+comment2.text=\n\ Deletes\ a\ given\ node\ from\ the\ tree.\n\ \n\ @param\ t\ the\ node\ to\ delete\ from\ the\ tree\n\ @param\ display\ the\ display\ for\ the\ tree\n\ \n\ @return\ any\ subtree\ that\ must\ be\ added\ to\ the\ old\ node's\ spot.\n
+comment3.params=t\ display
+comment3.target=TreeNode\ leftmostNode(TreeNode,\ TreeDisplay)
+comment3.text=\n\ Finds\ the\ left-most\ node\ in\ a\ given\ tree.\n\ \n\ @param\ t\ the\ tree\ to\ traverse\ through\n\ @param\ display\ the\ display\ for\ the\ tree\n\ \n\ @return\ the\ left-most\ node\n
+comment4.params=t\ x\ display
+comment4.target=TreeNode\ delete(TreeNode,\ java.lang.Comparable,\ TreeDisplay)
+comment4.text=\n\ Deletes\ a\ value\ from\ the\ given\ tree.\n\ \n\ @param\ t\ the\ tree\ to\ delete\ the\ value\ from\n\ @param\ x\ the\ value\ to\ delete\n\ @param\ display\ the\ display\ for\ the\ tree\n\ \n\ @return\ the\ newly\ modified\ tree\n
+numComments=5

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=obj
+comment0.target=int\ compareAnotherWay(java.lang.Object)
+comment0.text=\n\ Compares\ two\ objects\ in\ a\ different\ way\ than\ compareTo\ does.\n\ \n\ @param\ obj\ \ \ the\ other\ object\n\ \n\ @return\ \ 0\ if\ two\ objects\ are\ sufficiently\ equal,\n\ \ \ \ \ \ \ \ >\ 0\ if\ "this"\ object\ is\ determined\ to\ be\ greater\ than\ obj,\n\ \ \ \ \ \ \ \ <\ 0\ if\ "this"\ object\ is\ determined\ to\ be\ less\ than\ obj\n
+numComments=1

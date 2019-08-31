@@ -1,0 +1,32 @@
+#BlueJ class context
+comment0.params=name\ r
+comment0.target=Circle(java.lang.String,\ double)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Circle.\n\ \n\ @param\ name\ \ the\ name\ given\ to\ the\ Circle\n\ @param\ r\ \ \ \ \ the\ radius\ of\ the\ Circle\n\ @throws\ IllegalArgumentException\ if\ r\ is\ less\ than\ or\ equal\ to\ 0\n
+comment1.params=name
+comment1.target=Circle(java.lang.String)
+comment1.text=\n\ Constructor\ for\ unit\ circle\ object\ of\ class\ Circle.\n\ "this"\ circle\ has\ a\ radius\ of\ length\ one.\n\ \n\ @param\ name\ \ the\ name\ given\ to\ the\ Circle\n
+comment2.params=r
+comment2.target=void\ setRadius(double)
+comment2.text=\n\ Sets\ the\ length\ of\ the\ radius.\n\ \n\ @param\ r\ the\ new\ length\ of\ the\ radius\ and\ r\ >\ 0\n\ @throws\ IllegalArgumentException\ if\ r\ <\=\ 0\n
+comment3.params=
+comment3.target=double\ getRadius()
+comment3.text=\n\ Retrieves\ the\ length\ of\ the\ radius.\n\ \n\ @return\ the\ length\ of\ the\ radius\n
+comment4.params=
+comment4.target=double\ getPerimeter()
+comment4.text=\n\ Calculates\ the\ circumference\ of\ the\ Circle.\n\ \n\ @return\ the\ circumference\ of\ the\ Circle\n
+comment5.params=
+comment5.target=double\ getArea()
+comment5.text=\n\ Calculates\ the\ area\ of\ the\ Circle.\n\ \n\ @return\ the\ area\ of\ the\ Circle\n
+comment6.params=obj
+comment6.target=boolean\ equals(java.lang.Object)
+comment6.text=\n\ Tests\ if\ the\ two\ Circles\ have\ radii\ that\ are\ equal\n\ within\ an\ EPSILON,\ which\ is\ defined\ in\ GeometricShape.\n\ \n\ @param\ obj\ \ \ Circle\ object\ to\ test\ if\ its\ radius\ is\ "nearly\ equal"\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ to\ "this"\ radius\n\ @return\ true\ if\ the\ radii\ have\ "nearly\ equal"\ lengths;\ otherwise,\n\ \ \ \ \ \ \ \ \ false\n
+comment7.params=
+comment7.target=boolean\ isPolygon()
+comment7.text=\n\ Checks\ to\ see\ if\ Circle\ is\ a\ polygon.\n\ \n\ @return\ false\n
+comment8.params=obj
+comment8.target=int\ compareTo(java.lang.Object)
+comment8.text=\n\ Compares\ the\ current\ Circle\ with\ the\ Object\ obj.\n\ \n\ @param\ obj\ \ \ the\ Circle\ object\ with\ which\ to\ compare\n\ @return\ \ 0\ \ \ if\ the\ two\ Circles\ have\ the\ same\ radii\ within\ an\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ EPSILON,\ which\ is\ defined\ in\ GeometricShape\n\ \ \ \ \ \ \ \ >\ 0\ \ \ if\ "this"\ radius\ is\ greater\ than\ the\ obj's\ radius\n\ \ \ \ \ \ \ \ <\ 0\ \ \ if\ "this"\ radius\ is\ less\ than\ the\ obj's\ radius\n\ \ \ \ \ \ \ \ -999\ \ if\ obj\ is\ not\ a\ Circle\n
+comment9.params=
+comment9.target=java.lang.String\ toString()
+comment9.text=\n\ Formats\ the\ class\ name,\ the\ Circle's\ name,\ area,\ perimeter,\n\ and\ radius\ for\ the\ Circle.\n\ \n\ @return\ a\ formatted\ line\ about\ the\ Circle\n
+numComments=10

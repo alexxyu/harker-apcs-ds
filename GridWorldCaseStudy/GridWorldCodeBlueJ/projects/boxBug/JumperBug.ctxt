@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=JumperBug()
+comment0.text=\n\ Construcs\ a\ JumperBug.\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Jumps\ if\ able;\ if\ not,\ then\ acts\ like\ a\ normal\ bug\ until\ then.\ \n
+comment2.params=
+comment2.target=void\ jump()
+comment2.text=\n\ Jumps\ two\ spaces\ in\ front\ without\ leaving\ a\ trail\ of\ flowers.\n\ \n\ @precondition\ \ \ \ the\ jump\ is\ a\ legal\ jump\n
+comment3.params=
+comment3.target=void\ move()
+comment3.text=\n\ Moves\ one\ space\ forward\ without\ leaving\ a\ trail\ of\ flowers.\n\ \n\ @precondition\ \ \ \ the\ move\ is\ a\ legal\ move\n
+comment4.params=
+comment4.target=boolean\ canJump()
+comment4.text=\n\ Checks\ if\ there\ is\ an\ empty\ space,\ flower,\ or\ rock\ directly\ in\ front\n\ \ and\ if\ there\ is\ an\ empty\ space\ or\ flower\ two\ spaces\ ahead.\n\ \n\ @return\ \ true\ if\ the\ spaces\ in\ front\ are\ valid\ to\ jump;\ otherwise,\n\ \ \ \ \ \ \ \ \ \ false\ \n
+numComments=5

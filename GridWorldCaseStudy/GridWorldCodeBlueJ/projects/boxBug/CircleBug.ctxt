@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=length
+comment0.target=CircleBug(int)
+comment0.text=\n\ Creates\ a\ CircleBug\ that\ travels\ in\ an\ octagon\ with\ given\ side\ length\n\ \n\ @param\ length\ the\ side\ length\ of\ the\ octagon\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Moves\ to\ the\ next\ location\ of\ the\ octagon.\n
+numComments=2

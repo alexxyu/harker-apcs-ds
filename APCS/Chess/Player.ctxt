@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=b\ n\ c
+comment0.target=Player(Board,\ java.lang.String,\ java.awt.Color)
+comment0.text=\n\ Constructs\ a\ player\ with\ the\ given\ info.\n\ \n\ @param\ b\ the\ chess\ board\n\ @param\ n\ the\ name\ of\ the\ player\n\ @param\ c\ the\ player's\ color\ (i.e.\ black\ or\ white)\n
+comment1.params=
+comment1.target=Move\ nextMove()
+comment1.text=\n\ Retrieves\ the\ player's\ next\ move.\n\ \n\ @return\ the\ player's\ chosen\ move\n
+comment2.params=
+comment2.target=Board\ getBoard()
+comment2.text=\n\ Retrieves\ the\ chess\ board\ that\ the\ Player\ is\ in.\n\ \n\ @return\ the\ chess\ board\n
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=\n\ Retrieves\ the\ name\ of\ the\ Player.\n\ \n\ @return\ the\ Player's\ name\n
+comment4.params=
+comment4.target=java.awt.Color\ getColor()
+comment4.text=\n\ Retrieves\ the\ color\ of\ the\ Player.\n\ \n\ @return\ the\ Player's\ color\n
+numComments=5

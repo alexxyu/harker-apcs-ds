@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=b\ n\ c
+comment0.target=SmartPlayer(Board,\ java.lang.String,\ java.awt.Color)
+comment0.text=\n\ Constructs\ a\ SmartPlayer.\n\ \n\ @param\ b\ the\ chess\ board\ that\ it\ is\ in\n\ @param\ n\ the\ name\ of\ the\ SmartPlayer\n\ @param\ c\ the\ SmartPlayer's\ color\ (i.e.\ black\ or\ white)\n
+comment1.params=
+comment1.target=Move\ nextMove()
+comment1.text=\n\ Retrieves\ the\ SmartPlayer's\ chosen\ move.\n\ \n\ @return\ the\ move\ for\ the\ SmartPlayer\ to\ make\n
+comment2.params=
+comment2.target=int\ score()
+comment2.text=\n\ Retrieves\ the\ SmartPlayer's\ current\ score\ in\ the\ game.\n\ \n\ @return\ the\ SmartPlayer's\ score\n
+comment3.params=movesAhead
+comment3.target=int\ valueOfMeanestResponse(int)
+comment3.text=\n\ Calculates\ the\ score\ value\ of\ each\ of\ the\ opponent's\ possible\ moves\n\ and\ returns\ the\ smallest\ of\ those\ values.\n\ \n\ @param\ movesAhead\ \ \ \ the\ number\ of\ moves\ to\ look\ ahead,\ >\=\ 0\n\ \n\ @return\ the\ score\ value\ of\ the\ opponent's\ worst\ move\n
+comment4.params=movesAhead
+comment4.target=int\ valueOfBestMove(int)
+comment4.text=\n\ Calculates\ the\ score\ value\ of\ each\ of\ SmartPlayer's\ possible\ moves\n\ and\ returns\ the\ greatest\ of\ those\ values.\n\ \n\ @param\ movesAhead\ \ \ \ the\ number\ of\ moves\ to\ look\ ahead,\ >\=\ 0\n\ \n\ @return\ the\ score\ value\ of\ SmartPlayer's\ best\ move\n
+numComments=5

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Chicken()
+comment0.text=\n\ Constructs\ an\ object\ of\ class\ Chicken\n
+comment1.params=chickenType
+comment1.target=Chicken(java.lang.String)
+comment1.text=\n\ Constructs\ a\ Chicken\ of\ a\ certain\ type\ with\ its\ latin\ name.\n\ \n\ @param\ chickenType\ \ \ the\ kind\ of\ Chicken\n
+comment2.params=
+comment2.target=java.lang.String\ speak()
+comment2.text=\n\ Returns\ the\ sound\ of\ a\ Chicken.\n\ \n\ @return\ the\ sound\ of\ a\ Chicken\n
+numComments=3

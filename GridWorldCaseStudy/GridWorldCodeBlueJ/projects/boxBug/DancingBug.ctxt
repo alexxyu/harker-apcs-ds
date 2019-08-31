@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=length\ routine
+comment0.target=DancingBug(int,\ int[])
+comment0.text=\n\ Constructs\ a\ DancingBug\ that\ moves\ a\ given\ amount\ of\ steps\n\ \n\ @param\ length\ the\ number\ of\ steps\ to\ take\ before\ turning\n\ @param\ routine\ the\ dance\ routine\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Moves\ and\ turns\ using\ the\ specified\ routine\ and\ then\ repeats\n
+numComments=2

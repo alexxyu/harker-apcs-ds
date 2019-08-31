@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=name\ sideLength
+comment0.target=Equilateral(java.lang.String,\ double)
+comment0.text=\n\ Constructs\ an\ Equilateral\ with\ the\ given\ length\ and\ given\ name\n\ \n\ @param\ name\ \ \ \ \ \ \ \ \ \ the\ name\ given\ to\ Equilateral\n\ @param\ sideLength\ \ \ \ the\ length\ of\ each\ of\ Equilateral's\ sides\n
+comment1.params=l
+comment1.target=void\ setSideA(double)
+comment1.text=\n\ Sets\ each\ of\ the\ sides\ of\ Equilateral\ to\ the\ same\ length.\n\ \n\ @param\ l\ the\ new\ length\ of\ each\ side\n
+comment2.params=l
+comment2.target=void\ setSideB(double)
+comment2.text=\n\ Sets\ each\ of\ the\ sides\ of\ Equilateral\ to\ the\ same\ length.\n\ \n\ @param\ l\ the\ new\ length\ of\ each\ side\n
+comment3.params=l
+comment3.target=void\ setSideC(double)
+comment3.text=\n\ Sets\ each\ of\ the\ sides\ of\ Equilateral\ to\ the\ same\ length.\n\ \n\ @param\ l\ the\ new\ length\ of\ each\ side\n
+numComments=4

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=name\ leg
+comment0.target=IsoscelesRightTriangle(java.lang.String,\ double)
+comment0.text=\n\ Constructs\ an\ IsoscelesRightTriangle\ with\ a\ given\ name\n\ and\ leg\ length.\n\ \n\ @param\ name\ \ the\ name\ given\ to\ the\ IsoscelesRightTriangle\n\ @param\ leg\ \ \ the\ length\ of\ its\ legs\n
+comment1.params=a
+comment1.target=void\ setSideA(double)
+comment1.text=\n\ Sets\ the\ hypotenuse\ to\ the\ given\ value\ and\ then\ sets\ the\ legs\n\ to\ the\ correct\ length\ based\ on\ the\ Pythagorean\ Theorem.\n\ \n\ @param\ a\ the\ new\ length\ of\ the\ hypotenuse\n
+comment2.params=b
+comment2.target=void\ setSideB(double)
+comment2.text=\n\ Sets\ the\ leg\ to\ the\ given\ value\ and\ then\ sets\ the\ hypotenuse\n\ to\ the\ correct\ length\ based\ on\ the\ Pythagorean\ Theorem.\n\ \n\ @param\ b\ the\ new\ length\ of\ the\ legs\n
+comment3.params=c
+comment3.target=void\ setSideC(double)
+comment3.text=\n\ Sets\ the\ leg\ to\ the\ given\ value\ and\ then\ sets\ the\ hypotenuse\n\ to\ the\ correct\ length\ based\ on\ the\ Pythagorean\ Theorem.\n\ \n\ @param\ c\ the\ new\ length\ of\ the\ legs\n
+numComments=4

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=length
+comment0.target=SpiralBug(int)
+comment0.text=\n\ Constructs\ a\ SpiralBug\ that\ starts\ a\ spiral\ pattern\ with\ a\ given\ length\n\ \n\ @param\ length\ the\ side\ length\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Moves\ to\ the\ next\ location\ of\ the\ spiral\ and\ increases\ side\ length\ at\ the\n\ \ end\ of\ every\ side.\n
+numComments=2

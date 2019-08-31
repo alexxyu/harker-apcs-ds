@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Game()
+comment0.text=\n\ Constructor\ that\ prepares\ the\ backend\ before\ the\ game\n\ actually\ begins.\n
+comment1.params=board
+comment1.target=void\ setUpBoard(Board)
+comment1.text=\n\ Sets\ up\ the\ board\ with\ the\ necessary\ pieces.\n\ \n\ @param\ board\ the\ chess\ board\n
+comment2.params=player
+comment2.target=void\ nextTurn(Player)
+comment2.text=\n\ Updates\ the\ display\ for\ the\ game\ to\ reflect\ the\ moves\ made\ and\ the\ current\n\ player\ and\ also\ executes\ the\ player's\ move.\n\ \n\ @param\ player\ \ \ \ the\ current\ player\n
+comment3.params=black\ white
+comment3.target=void\ play(Player,\ Player)
+comment3.text=\n\ Handles\ the\ game\ of\ chess\ by\ alternating\ turns\ between\ players.\n\ \n\ @param\ black\ \ \ \ \ the\ black\ player\n\ @param\ white\ \ \ \ \ the\ white\ player\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=\n\ Begins\ the\ game\ of\ chess.\n\ \n\ @param\ args\ info\ from\ the\ command\ line\n
+numComments=5

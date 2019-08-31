@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Fibonacci()
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=numberOfTerms
+comment2.target=int[]\ getArrayOfFibonacciNumbers(int)
+comment3.params=numberOfTerms
+comment3.target=java.util.ArrayList\ getListOfFibonacciNumbers(int)
+numComments=4

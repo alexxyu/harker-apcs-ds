@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Rooster()
+comment0.text=\n\ Constructs\ an\ object\ of\ class\ Rooster.\n
+comment1.params=
+comment1.target=java.lang.String\ speak()
+comment1.text=\n\ Returns\ the\ sound\ of\ a\ Rooster.\n\ \n\ @return\ the\ sound\ of\ a\ Rooster\n
+numComments=2

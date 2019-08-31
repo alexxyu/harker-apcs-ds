@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TreeDisplay()
+comment1.params=
+comment1.target=void\ run()
+comment2.params=
+comment2.target=java.awt.Dimension\ getPreferredSize()
+comment3.params=g
+comment3.target=void\ paint(java.awt.Graphics)
+comment4.params=delay
+comment4.target=void\ setDelay(int)
+numComments=5

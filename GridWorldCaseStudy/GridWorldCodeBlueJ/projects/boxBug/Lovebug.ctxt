@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=color\ probBreed
+comment0.target=Lovebug(java.awt.Color,\ int)
+comment0.text=\n\ Constructs\ Lovebug\ with\ given\ color\ and\ chance\ of\ breeding.\n\ \n\ @param\ color\ the\ color\ of\ the\ bug\n\ @param\ probBreed\ the\ probability\ of\ breeding\n
+comment1.params=color
+comment1.target=Lovebug(java.awt.Color)
+comment1.text=\n\ Constructs\ Lovebug\ with\ given\ color\ and\ default\ breeding\ chance.\n\ \n\ @param\ color\ the\ color\ of\ the\ bug\n
+comment2.params=probBreed
+comment2.target=Lovebug(int)
+comment2.text=\n\ Constructs\ Lovebug\ with\ default\ color\ and\ given\ breeding\ chance.\n\ \n\ @param\ probBreed\ the\ probability\ of\ breeding\n
+comment3.params=
+comment3.target=Lovebug()
+comment3.text=\n\ Constructs\ Lovebug\ with\ default\ color\ and\ chance\ of\ breeding.\n
+comment4.params=loc
+comment4.target=boolean\ canClone(info.gridworld.grid.Location)
+comment4.text=\n\ Checks\ to\ see\ if\ the\ given\ space\ is\ empty\ or\ occupied\ by\ a\ Flower;\n\ \n\ @param\ loc\ the\ space\ to\ check\n\ @return\ true\ if\ loc\ is\ empty\ or\ is\ occupied\ by\ a\ Flower;\ otherwise,\n\ \ \ \ \ \ \ \ \ false\n
+comment5.params=loc
+comment5.target=void\ clone(info.gridworld.grid.Location)
+comment5.text=\n\ Breeds\ and\ creates\ a\ new\ Lovebug\ in\ the\ given\ location\ with\ the\n\ \ same\ direction\ and\ color\ as\ itself.\n\ \n\ @param\ loc\ the\ space\ to\ clone\ itself\ into\n
+comment6.params=
+comment6.target=void\ act()
+comment6.text=\n\ Acts\ like\ a\ normal\ Bug\ before\ checking\ if\ it\ can\ breed\ in\ a\n\ \ location\ behind\ and\ to\ the\ left\ or\ behind\ and\ to\ the\ right.\n
+numComments=7

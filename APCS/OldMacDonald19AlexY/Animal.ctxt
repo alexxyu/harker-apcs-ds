@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=latin\ common
+comment0.target=Animal(java.lang.String,\ java.lang.String)
+comment0.text=\n\ Creates\ an\ Animal\ with\ the\ given\ latin\ name\ and\ given\n\ common\ name.\n\ \n\ @param\ latin\ the\ Animal's\ latin\ name\n\ @param\ common\ the\ Animal's\ common\ name\n
+comment1.params=s
+comment1.target=void\ setLatinName(java.lang.String)
+comment1.text=\n\ Sets\ the\ Animal's\ latin\ name.\n\ \n\ @param\ s\ the\ Animal's\ new\ latin\ name\n
+comment2.params=s
+comment2.target=void\ setCommonName(java.lang.String)
+comment2.text=\n\ Sets\ the\ Animal's\ common\ name.\n\ \n\ @param\ s\ the\ Animal's\ new\ common\ name\n
+comment3.params=
+comment3.target=java.lang.String\ getLatinName()
+comment3.text=\n\ Retrieves\ the\ Animal's\ latin\ name.\n\ \n\ @return\ the\ Animal's\ latin\ name\n
+comment4.params=
+comment4.target=java.lang.String\ getCommonName()
+comment4.text=\n\ Retrieves\ the\ Animal's\ common\ name.\n\ \n\ @return\ the\ Animal's\ common\ name\n
+comment5.params=
+comment5.target=java.lang.String\ speak()
+comment5.text=\n\ Returns\ the\ Animal's\ sound\ for\ the\ song.\n\ \n\ @return\ the\ Animal's\ specific\ sound\n
+comment6.params=obj
+comment6.target=int\ compareTo(java.lang.Object)
+comment6.text=\n\ Compares\ lexigraphically\ the\ current\ object's\ common\ name\ with\n\ the\ other's\ common\ name.\n\ \n\ @param\ obj\ \ \ the\ obj\ being\ compared\ to\n\ \n\ @return\ \ 0\ \ \ if\ the\ two\ names\ are\ lexicographically\ equal;\n\ \ \ \ \ \ \ \ \ >0\ \ \ if\ this\ object's\ name\ is\ alphabetically\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ earlier\ than\ the\ obj's\ name;\ otherwise,\n\ \ \ \ \ \ \ \ \ <0\ \ \ if\ this\ object's\ name\ is\ alphabetically\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ later\ than\ the\ obj's\ name\n\ @throws\ IllegalArgumentException\ if\ an\ Animal\ object\ is\ not\ used\n
+numComments=7

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=g
+comment0.target=Tetrad(MyBoundedGrid)
+comment0.text=\n\ Constructs\ a\ new\ tetrad\ object\ of\ a\ random\ shape.\n\ \n\ @param\ g\ the\ grid\ that\ contains\ the\ tetrad\n
+comment1.params=grid\ locs
+comment1.target=void\ addToLocations(MyBoundedGrid,\ Location[])
+comment1.text=\n\ Adds\ the\ blocks\ that\ constitutes\ the\ tetrad\ to\ the\ grid.\n\ \n\ @precondition\ the\ blocks\ are\ not\ contained\ in\ any\ grid\n\ \n\ @param\ grid\ \ the\ grid\ that\ contains\ the\ blocks\n\ @param\ locs\ \ the\ starting\ locations\ of\ each\ of\ the\ blocks\n
+comment2.params=
+comment2.target=Location[]\ removeBlocks()
+comment2.text=\n\ Removes\ the\ blocks\ that\ constitutes\ the\ tetrad\ from\ the\ grid.\n\ \n\ @precondition\ the\ blocks\ are\ contained\ in\ a\ grid\n\ \n\ @return\ \ an\ array\ of\ the\ former\ locations\ of\ each\ of\ the\ blocks\n
+comment3.params=grid\ locs
+comment3.target=boolean\ areEmpty(MyBoundedGrid,\ Location[])
+comment3.text=\n\ Checks\ to\ see\ if\ the\ given\ locations\ are\ empty\ within\ the\ grid.\n\ \n\ @param\ grid\ \ the\ grid\ to\ check\n\ @param\ locs\ \ the\ locations\ within\ the\ grid\ to\ check\ if\ empty\n\ \n\ @return\ true\ if\ all\ the\ given\ locations\ are\ both\ valid\ and\ empty;\ otherwise,\n\ \ \ \ \ \ \ \ \ false\n
+comment4.params=deltaRow\ deltaCol
+comment4.target=boolean\ translate(int,\ int)
+comment4.text=\n\ Moves\ the\ entire\ tetrad\ left/right\ and\ up/down\ by\ a\ specific\ amount.\n\ \n\ @param\ deltaRow\ \ the\ number\ of\ rows\ and\ the\ direction\ for\ the\ tetrad\ to\ move\n\ @param\ deltaCol\ \ the\ number\ of\ columns\ and\ the\ direction\ for\ the\ tetrad\ to\ move\n\ \n\ @return\ true\ if\ the\ tetrad\ was\ translated\ successfully;\ otherwise,\n\ \ \ \ \ \ \ \ \ false\n
+comment5.params=
+comment5.target=boolean\ rotate()
+comment5.text=\n\ Rotates\ the\ entire\ tetrad\ 90\ degrees\ around\ a\ pivot\ point.\n\ \n\ @return\ \ true\ \ \ \ if\ the\ tetrad\ was\ able\ to\ be\ rotated;\ otherwise,\n\ \ \ \ \ \ \ \ \ \ false\n
+numComments=6

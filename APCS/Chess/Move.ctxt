@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=piece\ destination
+comment0.target=Move(Piece,\ Location)
+comment0.text=\n\ Constructs\ a\ new\ move\ for\ moving\ the\ given\ piece\ to\ the\ given\ \n\ destination.\n\ \n\ @param\ piece\ \ the\ piece\ to\ be\ moved\n\ @param\ destination\ \ the\ location\ the\ piece\ is\ to\ be\ moved\ to\ \n
+comment1.params=
+comment1.target=Piece\ getPiece()
+comment1.text=\n\ Returns\ the\ piece\ being\ moved.\n\ \n\ @return\ the\ selected\ piece\ \n
+comment2.params=
+comment2.target=Location\ getSource()
+comment2.text=\n\ Returns\ the\ location\ being\ moved\ from.\n\ \n\ @return\ the\ location\ being\ moved\ from\n
+comment3.params=
+comment3.target=Location\ getDestination()
+comment3.text=\n\ Returns\ the\ location\ being\ moved\ to.\n\ \n\ @return\ the\ location\ being\ moved\ to\ \ \n
+comment4.params=
+comment4.target=Piece\ getVictim()
+comment4.text=\n\ Returns\ the\ piece\ being\ captured.\n\ \n\ @return\ the\ captured\ piece\ \n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ Returns\ a\ string\ description\ of\ the\ move.\n\ \n\ @return\ information\ about\ the\ original\ position,\n\ \ \ \ \ \ \ \ \ the\ destination\ position\ and\ victim\n
+comment6.params=x
+comment6.target=boolean\ equals(java.lang.Object)
+comment6.text=\n\ Returns\ true\ if\ this\ move\ is\ equivalent\ to\ the\ given\ one.\n\ \n\ @param\ x\ the\ other\ move\ with\ which\ to\ compare\ this\ move\n\ @return\ true\ if\ both\ moves\ are\ equivalent;\ otherwise,\n\ \ \ \ \ \ \ \ \ false\n
+comment7.params=
+comment7.target=int\ hashCode()
+comment7.text=\n\ Returns\ a\ hash\ code\ for\ this\ move,\ such\ that\ equivalent\ \n\ moves\ have\ the\ same\ hash\ code.\n\ \n\ @return\ the\ hashcode\ for\ the\ move\n
+numComments=8

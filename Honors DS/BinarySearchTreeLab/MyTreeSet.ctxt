@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MyTreeSet()
+comment0.text=\n\ Constructs\ a\ MyTreeSet.\n
+comment1.params=
+comment1.target=int\ size()
+comment1.text=\n\ Gets\ the\ size\ of\ the\ TreeSet.\n\ \n\ @return\ the\ size\ of\ the\ TreeSet\n
+comment2.params=obj
+comment2.target=boolean\ contains(java.lang.Object)
+comment2.text=\n\ Checks\ to\ see\ if\ the\ given\ object\ is\ in\ the\ TreeSet.\n\ \n\ @param\ obj\ the\ object\ to\ check\n\ \n\ @return\ true\ if\ the\ object\ is\ in\ the\ TreeSet;\ otherwise,\n\ \ \ \ \ \ \ \ \ false\n
+comment3.params=obj
+comment3.target=boolean\ add(java.lang.Object)
+comment3.text=\n\ Adds\ the\ given\ object\ to\ the\ TreeSet.\n\ \n\ @param\ obj\ the\ object\ to\ add\n\ \n\ @return\ true\ if\ the\ object\ was\ added\ to\ the\ TreeSet;\ otherwise,\n\ \ \ \ \ \ \ \ \ false\n
+comment4.params=obj
+comment4.target=boolean\ remove(java.lang.Object)
+comment4.text=\n\ Removes\ the\ given\ object\ from\ the\ TreeSet.\n\ \n\ @param\ obj\ the\ object\ to\ remove\n\ \n\ @return\ true\ if\ the\ object\ was\ removed\ from\ the\ TreeSet;\ otherwise,\n\ \ \ \ \ \ \ \ \ false\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ Gets\ a\ formatted\ string\ representing\ the\ TreeSet.\n\ \n\ @return\ a\ string\ representing\ the\ TreeSet\n
+comment6.params=t
+comment6.target=java.lang.String\ toString(TreeNode)
+comment6.text=\n\ Gets\ a\ formatted\ string\ representing\ a\ tree.\n\ \n\ @param\ t\ the\ root\ of\ the\ given\ tree\n\ \n\ @return\ a\ string\ representing\ the\ tree\n
+numComments=7

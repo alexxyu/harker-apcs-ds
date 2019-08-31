@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ talk()
+comment0.text=\n\ The\ Member\ talks.\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment1.text=\n\ Gets\ the\ member\u2019s\ name\n\ @return\ name\n
+numComments=2

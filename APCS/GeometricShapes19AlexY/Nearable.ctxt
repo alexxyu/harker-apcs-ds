@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=obj1\ obj2
+comment0.target=boolean\ isNearlyEqual(java.lang.Object,\ java.lang.Object)
+comment0.text=\n\ Determines\ if\ two\ numbers\ are\ within\ an\ epsilon\ difference\n\ of\ each\ other.\n\ \n\ @param\ \ obj1\ \ \ \ \ an\ object\ to\ be\ tested\ as\ close\ to\ another\ object\n\ @param\ \ obj2\ \ \ \ \ an\ object\ to\ be\ tested\ as\ close\ to\ another\ object\n\ @return\ true\ \ \ \ \ if\ the\ numbers\ are\ close\ to\ each\ other;\ otherwise\n\ \ \ \ \ \ \ \ \ false\n
+numComments=1

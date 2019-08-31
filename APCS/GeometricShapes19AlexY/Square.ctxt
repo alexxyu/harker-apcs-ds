@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=name\ length
+comment0.target=Square(java.lang.String,\ double)
+comment0.text=\n\ Constructs\ a\ length\ by\ length\ Square\ with\ the\ given\ name.\n\ \n\ @param\ name\ \ \ \ \ \ the\ name\ given\ to\ the\ Square\n\ @param\ length\ \ \ \ the\ width\ and\ length\ of\ the\ Square\n
+comment1.params=name
+comment1.target=Square(java.lang.String)
+comment1.text=\n\ Constructs\ a\ unit\ Square\ with\ a\ given\ name.\n\ \n\ @param\ name\ \ \ \ \ \ the\ name\ given\ to\ the\ Square\n
+comment2.params=l
+comment2.target=void\ setLength(double)
+comment2.text=\n\ Sets\ the\ length\ (and\ the\ width)\ of\ the\ Square.\n\ \n\ @param\ l\ the\ new\ width\ and\ length\ of\ the\ Square\n\ @throws\ IllegalArgumentException\ if\ l\ <\=\ 0\n
+comment3.params=w
+comment3.target=void\ setWidth(double)
+comment3.text=\n\ Sets\ the\ width\ (and\ the\ length)\ of\ the\ Square.\n\ \n\ @param\ w\ the\ new\ width\ and\ length\ of\ the\ Square\n\ @throws\ IllegalArgumentException\ if\ l\ <\=\ 0\n
+numComments=4

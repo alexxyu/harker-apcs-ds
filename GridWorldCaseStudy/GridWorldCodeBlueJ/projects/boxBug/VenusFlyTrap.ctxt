@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=VenusFlyTrap()
+comment0.text=\n\ Constructs\ VenusFlyTrap\ that\ eats\ bugs\n
+comment1.params=loc
+comment1.target=void\ eatBug(info.gridworld.grid.Location)
+comment1.text=\n\ Checks\ to\ see\ if\ there\ is\ a\ bug\ at\ the\ given\ location\ and\ then\ consumes\n\ \ it\ if\ there\ is\ one.\n\ \ \n\ @param\ loc\ the\ location\ to\ check\ for\ a\ bug\n
+comment2.params=
+comment2.target=void\ eat()
+comment2.text=\n\ Oversees\ the\ eating\ by\ checking\ spaces\ in\ front\ and\ behind\ the\ plant\ for\ bugs.\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ Tries\ to\ eat\ and\ if\ it\ doesn't\ eat\ anything,\ then\ its\ color\ fades.\n
+numComments=4

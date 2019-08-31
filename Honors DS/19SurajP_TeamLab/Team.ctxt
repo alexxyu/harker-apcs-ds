@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=Team(int)
+comment0.text=\n\ Constructs\ Team\ with\ given\ size.\n\ \n\ @param\ s\ the\ number\ of\ members\ in\ Team.\n
+comment1.params=
+comment1.target=void\ meet()
+comment1.text=\n\ Meets.\n
+comment2.params=
+comment2.target=void\ complete()
+comment2.text=\n\ Completes.\n
+numComments=3

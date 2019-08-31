@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=col\ fileName
+comment0.target=Pawn(java.awt.Color,\ java.lang.String)
+comment0.text=\n\ Constructs\ a\ Pawn\ piece.\n\ \n\ @param\ col\ \ \ the\ color\ of\ the\ Pawn\ (i.e.\ black\ or\ white)\n\ @param\ fileName\ \ the\ name\ of\ the\ image\ for\ this\ Pawn\n
+comment1.params=
+comment1.target=java.util.ArrayList\ destinations()
+comment1.text=\n\ Retrieves\ all\ valid\ locations\ that\ the\ Pawn\ can\ move\ to.\n\ \n\ @return\ an\ ArrayList\ of\ valid\ destination\ locations\n
+comment2.params=
+comment2.target=boolean\ hasMoved()
+comment2.text=\n\ Checks\ to\ see\ if\ this\ Pawn\ has\ already\ moved\ before\ (i.e.\ whether\n\ it\ has\ moved\ from\ its\ original\ location)\n\ \n\ @return\ whether\ the\ Pawn\ has\ moved\ before\n
+numComments=3

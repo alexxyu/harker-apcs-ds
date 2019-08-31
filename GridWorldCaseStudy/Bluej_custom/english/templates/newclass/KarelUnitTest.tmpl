@@ -1,0 +1,55 @@
+$PKGLINE
+import kareltherobot.*;
+import java.awt.Color;
+
+import static org.junit.Assert.*;
+import org.junit.After;
+import org.junit.Before;
+import org.junit.Test;
+
+/**
+ * The test class $CLASSNAME.
+ *
+ * @author  (your name)
+ *
+ * @version (a version number or a date)
+ */
+public class $CLASSNAME extends KJRTest
+{
+    /**
+     * Default constructor for $CLASSNAME
+     */
+    public $CLASSNAME(String robotName)
+    {
+         super(robotName);
+    }
+
+    /**
+     * Sets up the test fixture.
+     *
+     * Called before every test case method.
+     */
+    @Before
+    public void setUp()
+    {
+        World.reset();
+        //World.readWorld("C:/worldFilesDOS/fig3-2.kwld");  // PC
+        //World.readWorld("/worldFilesDOS/fig3-2.kwld");    // MAC 
+        World.setVisible(true);
+        World.setDelay(20);
+        World.setSize(10,10);
+    }
+
+    /**
+     * Tears down the test fixture.
+     *
+     * Called after every test case method.
+     */
+    @After
+    public void tearDown()
+    {
+    }
+    
+    /* insert unit tests here. Create new robot, do the exercise then assert*/
+    
+}

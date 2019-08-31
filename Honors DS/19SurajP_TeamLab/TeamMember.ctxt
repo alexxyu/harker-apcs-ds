@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=TeamMember(java.lang.String)
+comment0.text=\n\ Constructs\ a\ TeamMember.\n\ \n\ @param\ n\ the\ TeamMember's\ name\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment1.text=\n\ Returns\ the\ name.\n\ \n\ @return\ the\ name\n
+comment2.params=
+comment2.target=void\ talk()
+comment2.text=\n\ Talks.\n
+numComments=3

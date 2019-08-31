@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=length
+comment0.target=ZBug(int)
+comment0.text=\n\ Constructs\ a\ ZBug\ that\ moves\ in\ a\ Z\ pattern\ with\ given\ side\ length\n\ \n\ @param\ length\ the\ side\ length\ of\ each\ side\ of\ Z\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Moves\ to\ the\ next\ side\ of\ the\ Z\ and\ stops\ after\ finishing\n\ \ the\ pattern\ once\n
+numComments=2

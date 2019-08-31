@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=OldMacDonaldsFarm()
+comment0.text=\n\ Constructs\ an\ object\ of\ class\ OldMacDonaldsFarm\n
+comment1.params=
+comment1.target=void\ singVerse()
+comment1.text=\n\ Sings\ a\ verse\ of\ the\ song.\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\n\ The\ main\ program\ for\ OldMacDonaldsFarm\n\ \n\ @param\ args\ \ information\ read\ from\ the\ command\ line\n
+numComments=3

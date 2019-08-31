@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=bd\ b\ name\ c
+comment0.target=HumanPlayer(BoardDisplay,\ Board,\ java.lang.String,\ java.awt.Color)
+comment0.text=\n\ Constructs\ a\ HumanPlayer.\n\ \n\ @param\ bd\ \ \ \ the\ display\ of\ the\ chess\ board\n\ @param\ b\ \ \ \ \ the\ chess\ board\n\ @param\ name\ \ the\ name\ of\ the\ player\n\ @param\ c\ \ \ \ \ the\ player's\ color\ (i.e.\ black\ or\ white)\n
+comment1.params=
+comment1.target=Move\ nextMove()
+comment1.text=\n\ Asks\ for\ and\ retrieves\ the\ player's\ next\ move.\n\ \n\ @return\ \ the\ player's\ next\ move\n
+numComments=2

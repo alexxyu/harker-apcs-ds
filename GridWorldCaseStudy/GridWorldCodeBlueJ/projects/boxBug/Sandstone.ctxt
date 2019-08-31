@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=color\ decompose
+comment0.target=Sandstone(java.awt.Color,\ int)
+comment0.text=\n\ Constructs\ Sandstone\ with\ given\ color\ and\ given\ decomposing\ factor.\n\ \n\ @param\ color\ the\ color\ of\ sandstone\n\ @param\ decompose\ the\ amount\ the\ sandstone\ lightens\n
+comment1.params=decompose
+comment1.target=Sandstone(int)
+comment1.text=\n\ Constructs\ Sandstone\ with\ the\ default\ black\ color\ and\ given\ decomposing\ factor.\n\ \n\ @param\ decompose\ the\ amount\ the\ sandstone\ lightens\n
+comment2.params=color
+comment2.target=Sandstone(java.awt.Color)
+comment2.text=\n\ Constructs\ Sandstone\ with\ given\ color\ and\ default\ decomposing\ factor.\n\ \n\ @param\ color\ the\ color\ of\ sandstone\n
+comment3.params=
+comment3.target=Sandstone()
+comment3.text=\n\ Constructs\ Sandstone\ with\ the\ default\ black\ color\ and\ default\ decomposing\ factor.\n
+comment4.params=
+comment4.target=void\ lighten()
+comment4.text=\n\ Becomes\ lighter\ and\ lighter\ until\ completely\ white.\n
+comment5.params=
+comment5.target=void\ act()
+comment5.text=\n\ Oversees\ the\ decomposing\ and\ then\ removes\ itself\ from\ grid\n\ \ after\ it\ turns\ completely\ white.\n
+numComments=6

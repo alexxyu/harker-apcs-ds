@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=heap\ index\ heapSize
+comment0.target=void\ heapify(java.lang.Comparable[],\ int,\ int)
+comment0.text=\n\ Heapifies\ a\ given\ subtree\ of\ the\ heap.\ Heapify\ runs\ in\ O(log\ n)\ time\ because\n\ it\ traverses\ through\ a\ binary\ tree\ recursively.\n\ \n\ @param\ heap\ \ the\ heap\ from\ which\ to\ heapify\n\ @param\ index\ the\ index\ of\ the\ subtree\ to\ heapify\n\ @param\ heapSize\ \ the\ size\ of\ the\ heap\n
+comment1.params=heap\ index1\ index2
+comment1.target=void\ swapValues(java.lang.Comparable[],\ int,\ int)
+comment1.text=\n\ Swaps\ two\ given\ values\ in\ an\ array\ designating\ a\ heap.\n\ \n\ @precondition\ 0\ <\=\ index1\ <\=\ heap.length\n\ @precondition\ 0\ <\=\ index2\ <\=\ heap.length\n\ \n\ @param\ heap\ \ the\ array\ in\ which\ to\ swap\ values\n\ @param\ index1\ \ \ \ the\ index\ of\ the\ first\ value\ to\ swap\n\ @param\ index2\ \ \ \ the\ index\ of\ the\ second\ value\ to\ swap\n
+comment2.params=heap\ heapSize
+comment2.target=void\ buildHeap(java.lang.Comparable[],\ int)
+comment2.text=\n\ Creates\ an\ array\ that\ designates\ a\ heap.\ It\ runs\ in\ O(nlog\ n)\ time\ overall\n\ because\ the\ for-loop\ runs\ in\ O(n)\ time\ and\ the\ heapify\ method\ runs\ in\ O(log\ n).\n\ \n\ @param\ heap\ \ the\ array\ for\ the\ heap\n\ @param\ heapSize\ the\ size\ of\ the\ heap\n\ \n\ @postcondition\ heap\ contains\ a\ binary\ tree\ that\ completes\ the\ heap\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ condition\n
+comment3.params=heap\ heapSize
+comment3.target=void\ heapSort(java.lang.Comparable[],\ int)
+comment3.text=\n\ Uses\ a\ heap\ to\ sort\ a\ collection\ of\ values\ stored\ within\ the\ given\ array.\ Runs\ \n\ in\ O(nlog\ n)\ time\ because\ of\ the\ heapify\ process.\n\ \n\ @param\ heap\ \ the\ array\ of\ values\ to\ sort\n
+comment4.params=heap\ heapSize
+comment4.target=java.lang.Comparable\ remove(java.lang.Comparable[],\ int)
+comment4.text=\n\ Removes\ and\ returns\ the\ root\ value.\ Runs\ in\ O(log\ n)\ because\ of\ the\ \n\ heapify\ process.\n\ \n\ @param\ heap\ \ the\ array\ to\ remove\ root\ from\n\ @param\ heapSize\ \ the\ size\ of\ the\ heap\n\ \n\ @postcondition\ array\ heap\ meets\ heap\ condition\n\ \n\ @return\ the\ root\ value\ that\ was\ removed\n
+comment5.params=heap\ item\ heapSize
+comment5.target=java.lang.Comparable[]\ insert(java.lang.Comparable[],\ java.lang.Comparable,\ int)
+comment5.text=\n\ Inserts\ a\ Comparable\ object\ into\ heap\ and\ returns\ resulting\ heap.\ Runs\ in\ \n\ O(log\ n)\ time\ because\ of\ the\ sifting\ up\ process.\n\ \n\ @param\ heap\ \ the\ array\ to\ insert\ value\ into\n\ @param\ item\ \ the\ object\ to\ insert\n\ @param\ heapSize\ \ the\ size\ of\ the\ heap\n\ \n\ @postcondition\ \ \ array\ heap\ meets\ heap\ condition\n\ \n\ @return\ the\ heap\ with\ the\ newly\ inserted\ value\n
+comment6.params=arr
+comment6.target=void\ printArray(java.lang.Comparable[])
+comment6.text=\n\ Prints\ the\ contents\ of\ an\ array.\ Used\ for\ debugging.\n\ \n\ @param\ arr\ \ \ the\ array\ to\ print\n
+numComments=7

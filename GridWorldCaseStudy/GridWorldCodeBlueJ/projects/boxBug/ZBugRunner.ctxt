@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\n\ Creates\ the\ grid\ and\ fills\ it\ with\ 2\ ZBugs.\n\ \n\ @param\ args\ \ information\ from\ the\ commond\ line\n
+numComments=1

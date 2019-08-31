@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\n\ Main\ method\n\ \n\ @param\ args\ \ info\ from\ command\ line.\n
+comment1.params=n
+comment1.target=int\ random(int)
+comment1.text=\n\ Produces\ a\ random\ number\ between\ 0\ (inclusive)\ and\ n\ (noninclusive).\n\ \n\ @return\ a\ random\ number\ in\ given\ range\n
+numComments=2

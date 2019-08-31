@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ countWhitePixels()
+comment0.text=\ @return\ the\ total\ number\ of\ white\ pixels\ in\ this\ image.\n\ \ Postcondition\:\ this\ image\ has\ not\ been\ changed.\n
+comment1.params=
+comment1.target=void\ processImage()
+comment1.text=\ Processes\ this\ image\ in\ row-major\ order\ and\ decreases\ the\ value\ of\ each\ pixel\ at\n\ position\ (row,\ col)\ by\ the\ value\ of\ the\ pixel\ at\ position\ (row\ +\ 2,\ col\ +\ 2)\ if\ it\ exists.\n\ Resulting\ values\ that\ would\ be\ less\ than\ BLACK\ are\ replaced\ by\ BLACK.\n\ Pixels\ for\ which\ there\ is\ no\ pixel\ at\ position\ (row\ +\ 2,\ col\ +\ 2)\ are\ unchanged.\n
+numComments=2

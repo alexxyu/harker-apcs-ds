@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Pig()
+comment0.text=\n\ Creates\ an\ object\ of\ class\ Pig.\n
+comment1.params=
+comment1.target=java.lang.String\ speak()
+comment1.text=\n\ Returns\ the\ sound\ of\ a\ Pig.\n\ \n\ @return\ the\ sound\ of\ a\ Pig\n
+numComments=2

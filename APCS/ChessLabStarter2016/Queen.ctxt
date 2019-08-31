@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=col\ fileName
+comment0.target=Queen(java.awt.Color,\ java.lang.String)
+comment0.text=\n\ Constructs\ a\ Queen\ piece\ with\ a\ given\ color.\n\ \n\ @param\ col\ \ \ \ \ the\ color\ of\ the\ Queen\ (i.e.\ black\ or\ white)\n\ @param\ fileName\ the\ name\ of\ the\ image\ for\ this\ Queen\n
+comment1.params=
+comment1.target=java.util.ArrayList\ destinations()
+comment1.text=\n\ Retrieves\ all\ valid\ locations\ that\ the\ Queen\ can\ move\ to.\n\ \n\ @return\ an\ ArrayList\ of\ valid\ destination\ locations\n
+numComments=2

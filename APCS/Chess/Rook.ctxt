@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=col\ fileName
+comment0.target=Rook(java.awt.Color,\ java.lang.String)
+comment0.text=\n\ Constructs\ a\ Rook\ piece.\n\ \n\ @param\ col\ \ \ the\ color\ of\ the\ Rook\ (i.e.\ black\ or\ white)\n\ @param\ fileName\ \ the\ name\ of\ the\ image\ for\ this\ Rook\n
+comment1.params=
+comment1.target=java.util.ArrayList\ destinations()
+comment1.text=\n\ Retrieves\ all\ valid\ locations\ that\ the\ Rook\ can\ move\ to.\n\ \n\ @return\ an\ ArrayList\ of\ valid\ destination\ locations\n
+numComments=2

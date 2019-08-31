@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=size
+comment0.target=CorporateOrganization(int)
+comment0.text=\n\ Constructs\ a\ CorporateOrganization\ with\ a\ given\ size.\n\ @param\ size\tthe\ number\ of\ members\ in\ the\ team\n
+comment1.params=
+comment1.target=void\ meet()
+comment1.text=\n\ Calls\ a\ meeting\ for\ the\ team.\n
+comment2.params=
+comment2.target=void\ complete()
+comment2.text=\n\ Ends\ the\ current\ team\u2019s\ meeting.\n
+numComments=3

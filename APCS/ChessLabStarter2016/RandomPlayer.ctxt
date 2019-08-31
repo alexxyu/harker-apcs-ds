@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=b\ n\ c
+comment0.target=RandomPlayer(Board,\ java.lang.String,\ java.awt.Color)
+comment0.text=\n\ Constructs\ a\ RandomPlayer.\n\ \n\ @param\ b\ the\ chess\ board\n\ @param\ n\ the\ name\ of\ the\ player\n\ @param\ c\ the\ player's\ color\ (i.e.\ black\ or\ white)\n
+comment1.params=
+comment1.target=Move\ nextMove()
+comment1.text=\n\ Retrieves\ a\ random\ but\ valid\ move.\n\ \n\ @return\ a\ random\ move\n
+numComments=2
